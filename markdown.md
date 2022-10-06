@@ -40,6 +40,7 @@ Personas que siguen en el siguiente curso:
 | 2 | 1 |2|
 |3 | 3| 1 |
 
+[ENLACE A OTRO FICHERO] (https://github.com/Martapozmed/Prueba_mpozo/blob/99c39b80e7df798511d108fe00bc2372cbbe281f/Markdown2.md)
  
  
  
